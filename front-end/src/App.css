@@ -1,0 +1,11 @@
+/* Reset CSS */
+* {
+  /*Emmet*/
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.hoverButton:hover {
+  opacity: 0.9;
+}
